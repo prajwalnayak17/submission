@@ -23,8 +23,8 @@ To install the required dependencies, follow these steps:
     ```
 
 # 3. Dependencies: 
-Selenium
-Time
+Selenium,
+Time,
 Pandas
 ## Additional Setup
 
