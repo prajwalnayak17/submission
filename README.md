@@ -22,19 +22,10 @@ To install the required dependencies, follow these steps:
     source env/bin/activate  # On Windows use `env\Scripts\activate`
     ```
 
-3. **Install the dependencies**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Make sure you have a `requirements.txt` file in your project directory with the following content:
-
-    ```plaintext
-    selenium
-    pandas
-    ```
-
+# 3. Dependencies: 
+Selenium
+Time
+Pandas
 ## Additional Setup
 
 - **Google Chrome**: Ensure you have Google Chrome installed.
